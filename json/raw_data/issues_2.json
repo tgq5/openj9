@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "cb171936f743c84b15ad446c875b26b82a4ae2fa",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2022-12-15T16:57:23-05:00"
+    },
+    {
+        "fix_commit_hash": "bb4efccb992d1c5e3502aea86859c96ec827cd66",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2018-06-08T17:01:39-04:00"
+    },
+    {
+        "fix_commit_hash": "c59e7d4734db673d97a8e9b2c71e66bb3d7161e2",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2020-05-13T01:18:27-04:00"
+    },
+    {
+        "fix_commit_hash": "3b66ee95c3f68a717b9d397aaabf116172fdd60b",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2020-07-30T15:21:49+00:00"
+    },
+    {
+        "fix_commit_hash": "cf7e46fdfa943d7a13531384479b1993bb8069c8",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2023-03-16T17:17:27-04:00"
+    },
+    {
+        "fix_commit_hash": "43260acae6415d649016116a28e3746d7f5192f9",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2020-11-04T12:47:19+09:00"
+    },
+    {
+        "fix_commit_hash": "704a781a1e6a8ff1b7b6a2290c6bebafc73b9542",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2024-05-22T11:46:43-04:00"
+    },
+    {
+        "fix_commit_hash": "3ddd56b705757e978be121a87c932e3d37c95206",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2017-09-13T10:56:43-04:00"
+    },
+    {
+        "fix_commit_hash": "e7220c5e6af0d3191c96d8c67c89f761cf1026da",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2023-06-21T16:27:30-04:00"
+    },
+    {
+        "fix_commit_hash": "7322e410b44a7776d10e4838c070f689a3af2a95",
+        "repo_name": "openj9",
+        "best_scenario_issue_date": "2020-11-27T17:25:49+00:00"
+    }
+]
