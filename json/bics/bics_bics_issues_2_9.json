@@ -1,0 +1,1 @@
+[{"fix_commit_hash": "e7220c5e6af0d3191c96d8c67c89f761cf1026da", "repo_name": "openj9", "best_scenario_issue_date": "2023-06-21T16:27:30-04:00", "inducing_commit_hash_pyszz": ["a7e2132964935b19690e9f7df99bd0bb2ccd4e31"], "inducing_commit_hash_pd": ["a7e2132964935b19690e9f7df99bd0bb2ccd4e31", "3ddd56b705757e978be121a87c932e3d37c95206"]}]
